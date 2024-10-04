@@ -1,0 +1,5 @@
+Had a study group with some classmates that talked about how to create a new sub() for looping through all worksheets and I used that method! I also worked with the AskBCS Learning Assistant on one issue I was having with finding the open and close prices for each ticker.
+
+I was also confused on the conditional formatting - it doesn't say which column to explicitly use conditional formatting for and just says "Make sure to use conditional formatting that will highlight positive change in green and negative change in red." In the images 
+  provided, it only has conditional formatting for the Quarterly Change column, but then in the grading requirements there's a bullet that says "Conditional formatting is applied correctly and appropriately to the percent change column (10 points)". It would be great if
+  this was more clear. I contacted AskBC Learning Assistant and they told me it was only mandatory for the Quarterly Change column and I will not get 10 points knocked off for not applying it to the Percent Change column. 
